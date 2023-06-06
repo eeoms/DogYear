@@ -24,4 +24,13 @@ console.log(dy.reverseDogYear(71, true));
 > 12
 ```
 
-Copyright 2023
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+Mozilla Public License 2.0
